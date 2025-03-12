@@ -6,6 +6,6 @@ import SoftwareEngineer from 'GomesVH';
 class Bio extends SoftwareEngineer {
   name = 'Victor Gomes';
   title = 'FullStack Developer';
-  location = 'Barueri, São Paulo - Brasil';
+  location = 'Barueri, São Paulo';
 }
 ```
